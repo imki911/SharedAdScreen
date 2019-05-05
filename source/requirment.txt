@@ -1,0 +1,4 @@
+paho-mqtt==1.4.0
+Pillow==6.0.0
+PyQt5==5.12.1
+PyQt5-sip==4.19.15

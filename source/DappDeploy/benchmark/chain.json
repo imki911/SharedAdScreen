@@ -1,0 +1,27 @@
+{
+  "default": "rinkeby",
+  "chains": {
+    "dev": {
+      "host": "http://localhost:8545",
+      "id": "1337",
+      "hub": "0xc4e4a08bf4c6fd11028b714038846006e27d7be8",
+      "scheduler": "https://pool1api.iex.ec"
+    },
+    "ropsten": {
+      "host": "https://ropsten.infura.io/v3/b2fd33d1c9cc440ba84752c2a4cf949d",
+      "id": "3"
+    },
+    "rinkeby": {
+      "host": "https://rinkeby.infura.io/v3/b2fd33d1c9cc440ba84752c2a4cf949d",
+      "id": "4"
+    },
+    "kovan": {
+      "host": "https://kovan.infura.io/v3/b2fd33d1c9cc440ba84752c2a4cf949d",
+      "id": "42"
+    },
+    "mainnet": {
+      "host": "https://mainnet.infura.io/v3/b2fd33d1c9cc440ba84752c2a4cf949d",
+      "id": "1"
+    }
+  }
+}

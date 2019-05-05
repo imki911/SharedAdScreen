@@ -1,0 +1,18 @@
+{
+  "description": "Shared Electronic Screen",
+  "license": "MIT",
+  "author": "Shanghai Tech",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.png",
+  "app": {
+    "name": "electronic screen",
+    "price": 1,
+    "params": {
+      "type": "DOCKER",
+      "envvars": "XWDOCKERIMAGE=daleshen/ad_screen:V1.0"
+    }
+  }
+}

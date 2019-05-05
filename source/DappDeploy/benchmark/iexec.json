@@ -1,0 +1,18 @@
+{
+  "description": "performance benchmark",
+  "license": "MIT",
+  "author": "xx",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.png",
+  "app": {
+    "name": "performance benchmark",
+    "price": 1,
+    "params": {
+      "type": "DOCKER",
+      "envvars": "XWDOCKERIMAGE=daleshen/benchmark:max"
+    }
+  }
+}
